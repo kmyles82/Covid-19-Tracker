@@ -15,6 +15,8 @@ export default class App extends Component {
       // console.log(data)
       this.setState({ data })
       // console.log(this.state.data)
+
+
   }
 
   render() {

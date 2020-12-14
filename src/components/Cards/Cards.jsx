@@ -1,11 +1,11 @@
-import React, {useState, useEffect} from 'react'
+import React from 'react'
 import {Card, CardContent, Typography, Grid} from '@material-ui/core'
 import cx from 'classnames'
 import CountUp from 'react-countup'
 import styles from './Cards.module.css'
 
 const Cards = ({data: {confirmed, recovered, deaths, lastUpdate}}) => {
-    console.log(confirmed)
+    // console.log(confirmed)
     if(!confirmed){
         return 'Loading...'
     }
