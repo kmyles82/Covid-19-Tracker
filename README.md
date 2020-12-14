@@ -1,3 +1,5 @@
+This app helps to spread awareness by visualizing the data. The data is fetched from the API https://covid19.mathdro.id/api and  cards are created to display the statistics as well as Charts. This project/application is created using the most modern JavaScript syntax, Material UI, Charts.js, React Hooks and API data fetching. The project is going to fetch the live data from the API using Async/Await syntax.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
